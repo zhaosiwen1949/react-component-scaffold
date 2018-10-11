@@ -1,0 +1,32 @@
+{
+  "config": {
+    "title": "Tmp",
+    "description": "My awesome app using docz",
+    "themeConfig": {},
+    "menu": [],
+    "ordering": "descending",
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "src": "./example/"
+  },
+  "entries": {
+    "HelloWorld.mdx": {
+      "name": "Hello world",
+      "id": "60e7257c6848a1b6acd6db4f7ea89deb",
+      "filepath": "HelloWorld.mdx",
+      "link": null,
+      "slug": "hello-world",
+      "route": "/hello-world",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "hello-world",
+          "value": "Hello world"
+        }
+      ]
+    }
+  }
+}
