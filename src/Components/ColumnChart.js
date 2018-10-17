@@ -65,7 +65,7 @@ ColumnChart.defaultProps = {
         k3: 3
     }],
     remains: [],
-    key: "索引",
+    index: "索引",
     value: "值",
 }
 
